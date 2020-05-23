@@ -6,9 +6,11 @@
 * 7 day forecast
 * Image of the location
 * Search for any city
-* Ability to Publish Current Temprature on Twitter
+* Ability to Publish Current Temperature on Twitter
 
 ## Screenshots
+
+[<img src="https://i.imgur.com/yWXGe5W.png" width=250>](https://i.imgur.com/yWXGe5W.png)
 
 ## Available Scripts
 
