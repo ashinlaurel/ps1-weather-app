@@ -2,6 +2,12 @@
 
 ## Features
 
+* Detects Location
+* 7 day forecast
+* Image of the location
+* Search for any city
+* Ability to Publish Current Temprature on Twitter
+
 ## Screenshots
 
 ## Available Scripts
