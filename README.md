@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-[<img src="https://i.imgur.com/yWXGe5W.png" width=250>](https://i.imgur.com/yWXGe5W.png)
+[<img src="https://i.imgur.com/yWXGe5W.png" width=500>](https://i.imgur.com/yWXGe5W.png)
 
 ## Available Scripts
 
